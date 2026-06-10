@@ -51,6 +51,7 @@ from IPython.display import display
 
 import os
 
+
 # Check feasibility of the solved model
 def _check_feasibility(model):
     with nostdout():

@@ -22,7 +22,6 @@ from pareto.utilities.results import (
     nostdout,
 )
 
-
 set_list = [
     "ProductionPads",
     "CompletionsPads",
